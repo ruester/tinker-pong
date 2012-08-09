@@ -200,7 +200,7 @@ void cleanup(void)
     ipcon_destroy(&ipcon);
 }
 
-int main() {
+int main(void) {
     int ox;
     int oy;
 
